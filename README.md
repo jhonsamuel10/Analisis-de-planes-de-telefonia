@@ -19,13 +19,13 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 ## Flujo del Proyecto
 
 - **Carga de Datos**:
-  
-- Se cargan los datos que contienen información sobre los clientes y sus planes de prepago.
-- Se analiza la cantidad de minutos, mensajes y datos móviles consumidos por cada usuario en relación con su plan.
+  Se cargan los datos que contienen información sobre los clientes y sus planes de prepago.
+  Se analiza la cantidad de minutos, mensajes y datos móviles consumidos por cada usuario en relación con su plan.
 
 - **Exploración de Datos (EDA)**:
--Se analizan las estadísticas descriptivas para comprender los patrones de uso de cada plan
--Se comparan métricas clave como el número de llamadas, la cantidad de datos utilizados y los ingresos generados por cada uno de los dos planes de prepago.
+  
+Se analizan las estadísticas descriptivas para comprender los patrones de uso de cada plan
+Se comparan métricas clave como el número de llamadas, la cantidad de datos utilizados y los ingresos generados por cada uno de los dos planes de prepago.
 
 ## Limpieza y Preparación de Datos:
 
