@@ -5,12 +5,12 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 ## Funcionalidades del Proyecto
 
 - **Análisis Exploratorio de Datos (EDA)** :
-  -Se investigan y comparan los ingresos generados por cada uno de los planes de prepago, así como los patrones de uso de los clientes.
+   Se investigan y comparan los ingresos generados por cada uno de los planes de prepago, así como los patrones de uso de los clientes.
 - **Limpieza y Preparación de Datos** :
-  -Se procesan los datos en bruto para hacerlos aptos para el análisis, eliminando inconsistencias y gestionando los valores faltantes.
+   Se procesan los datos en bruto para hacerlos aptos para el análisis, eliminando inconsistencias y gestionando los valores faltantes.
   
 - **Visualización de Resultados**:
-  -Se crean gráficos y visualizaciones que ilustran claramente qué plan genera más ingresos y cómo varían los patrones de uso entre las dos tarifas de prepago.
+   Se crean gráficos y visualizaciones que ilustran claramente qué plan genera más ingresos y cómo varían los patrones de uso entre las dos tarifas de prepago.
 
 
 ## Tecnologías Utilizadas
