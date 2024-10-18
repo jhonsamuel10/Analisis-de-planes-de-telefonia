@@ -32,19 +32,19 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 
 ## Limpieza y Preparación de Datos:
 
--Se gestionan valores nulos o faltantes para asegurar que los datos estén completos y sean fiables para el análisis.
--Se crean nuevas columnas calculadas (como los ingresos por cliente) y se formatean correctamente los datos (por ejemplo, convertir fechas a un formato adecuado).
+- Se gestionan valores nulos o faltantes para asegurar que los datos estén completos y sean fiables para el análisis.
+- Se crean nuevas columnas calculadas (como los ingresos por cliente) y se formatean correctamente los datos (por ejemplo, convertir fechas a un formato adecuado).
 
 ## Visualización de Resultados:
 
--Se generan gráficos que comparan los ingresos de los dos planes de prepago, mostrando cuál genera más ingresos a lo largo del tiempo.
--Se crean gráficos adicionales para entender el uso de minutos, mensajes y datos móviles por parte de los clientes de cada plan.
+- Se generan gráficos que comparan los ingresos de los dos planes de prepago, mostrando cuál genera más ingresos a lo largo del tiempo.
+- Se crean gráficos adicionales para entender el uso de minutos, mensajes y datos móviles por parte de los clientes de cada plan.
 -Los gráficos de barras y líneas se usan para mostrar tendencias clave en el uso y en los ingresos generados.
 
 ## Ejecución
--Abre el archivo principal en Jupyter Notebook.
--Sigue las celdas del análisis, desde la limpieza de datos hasta la visualización de los resultados.
+- Abre el archivo principal en Jupyter Notebook.
+- Sigue las celdas del análisis, desde la limpieza de datos hasta la visualización de los resultados.
 -Observa las conclusiones sobre qué plan de prepago genera más ingresos y cómo afecta eso al presupuesto publicitario.
 
 ## Conclusiones
--Este proyecto proporciona un análisis detallado sobre los ingresos generados por dos planes de prepago. Los resultados ayudan a determinar cuál de los planes es más rentable, lo que permite tomar decisiones informadas para ajustar el presupuesto de publicidad y optimizar las estrategias comerciales del departamento.
+- Este proyecto proporciona un análisis detallado sobre los ingresos generados por dos planes de prepago. Los resultados ayudan a determinar cuál de los planes es más rentable, lo que permite tomar decisiones informadas para ajustar el presupuesto de publicidad y optimizar las estrategias comerciales del departamento.
