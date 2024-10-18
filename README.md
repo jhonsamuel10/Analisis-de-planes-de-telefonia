@@ -17,7 +17,9 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
 
 ## Flujo del Proyecto
+
 - **Carga de Datos**:
+  
 - Se cargan los datos que contienen información sobre los clientes y sus planes de prepago.
 - Se analiza la cantidad de minutos, mensajes y datos móviles consumidos por cada usuario en relación con su plan.
 
